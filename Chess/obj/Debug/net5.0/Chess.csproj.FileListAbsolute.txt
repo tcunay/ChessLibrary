@@ -1,0 +1,12 @@
+C:\Users\tcunay\RiderProjects\Chess\Chess\bin\Debug\net5.0\Chess.deps.json
+C:\Users\tcunay\RiderProjects\Chess\Chess\bin\Debug\net5.0\Chess.dll
+C:\Users\tcunay\RiderProjects\Chess\Chess\bin\Debug\net5.0\ref\Chess.dll
+C:\Users\tcunay\RiderProjects\Chess\Chess\bin\Debug\net5.0\Chess.pdb
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\Chess.csprojAssemblyReference.cache
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\Chess.AssemblyInfoInputs.cache
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\Chess.AssemblyInfo.cs
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\Chess.dll
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\ref\Chess.dll
+C:\Users\tcunay\RiderProjects\Chess\Chess\obj\Debug\net5.0\Chess.pdb
