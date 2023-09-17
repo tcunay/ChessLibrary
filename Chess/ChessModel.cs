@@ -5,7 +5,7 @@
         public string Fen { get; }
         private Board Board { get; set; }
 
-        public ChessModel(string fen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNRwKQkq - 0 1")
+        public ChessModel(string fen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
         {
             Fen = fen;
             Board = new Board(Fen);
@@ -14,6 +14,7 @@
         private ChessModel(Board board)
         {
             Board = board;
+            Fen = Board.Fen;
         }
         
         public ChessModel Move(string move)
