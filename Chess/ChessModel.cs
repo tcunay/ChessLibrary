@@ -3,6 +3,7 @@
     public class ChessModel
     {
         public string Fen { get; }
+        
         private Board Board { get; set; }
 
         public ChessModel(string fen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNRwKQkq - 0 1")
